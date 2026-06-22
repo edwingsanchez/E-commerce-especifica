@@ -14,7 +14,10 @@ function footer(){
 
             <div style={{
                 display: 'flex',
-                flexDirection: 'column'
+                flexDirection: 'column',
+                textDecoration: 'none',
+                color: 'inherit',
+                gap: '10px'
 
             }}>
                 <a href="Facebook.com">Facebook</a>
