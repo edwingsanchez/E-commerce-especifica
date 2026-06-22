@@ -1,6 +1,7 @@
 function productoCard(){
     return(
         <div>
+            
         </div>
     )
 }

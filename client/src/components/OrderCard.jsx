@@ -1,8 +1,7 @@
 function orderCard(){
     return(
         <div>
-            <p></p>
-            <spam></spam>
+            <span></span>
         </div>
     )
 }
